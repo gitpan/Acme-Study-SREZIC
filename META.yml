@@ -23,4 +23,4 @@ requires:
   XML::LibXML: 0
 resources:
   repository: git://github.com/eserte/acme-study-srezic.git
-version: 1.00
+version: 1.01
